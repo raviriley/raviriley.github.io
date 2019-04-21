@@ -76,7 +76,7 @@ plugins:
 github_username: raviriley
 author:
   name    : "Ravi Riley"
-  avatar  : "/assets/images/bio-photo.jpg"
+  avatar  : "/assets/images/bio-pic.png"
   bio     : "My awesome biography constrained to a sentence or two goes here."
   #location:
   email   : "raviriley@gmail.com"
