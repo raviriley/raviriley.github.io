@@ -12,9 +12,6 @@ This is a tutorial for Windows users on how to set up for development of a stati
 ## Install Git
 <https://git-scm.com/downloads> - default download settings
 
-## Install GitHub Desktop (64-bit systems only)
-<https://desktop.github.com/>
-
 ## Install Chocolatey
 we could manually install everything but Chocolately is a package manager for Windows that does it all for us (big good)
 
@@ -39,8 +36,6 @@ Now, open a Git Bash command line window and enter:
 Let that finish & close the window, then open a new Git Bash window and run
 
 `choco upgrade ruby`
-
-Now you have Ruby installed! 
 
 ## Install MSYS2
 Now, we need to install MSYS2, a building tool for Windows with a built in package manager called Pacman. This is used when compiling Ruby gems and is needed to install Jekyll. Run the following from the Git Bash command line:
