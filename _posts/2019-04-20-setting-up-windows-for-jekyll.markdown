@@ -5,20 +5,7 @@ date:   2019-04-20 16:20:00 -0800
 categories: tutorial
 ---
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-
-`[var]: https://example.com`
-
-[authoring in markdown lesson](https://programminghistorian.org/en/lessons/getting-started-with-markdown)
-
-[reference tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+This is a tutorial for Windows users on how to set up for development of a static site generated with Jekyll. 
 
 **Note**: if you don't know if your system type, go to System Information and check System Type. x64 is 64 bit and x86 is 32 bit. You will need to know this information.
 
@@ -85,6 +72,29 @@ If this fails, run the following:
 this will run manual installation.
 
 ## Setting up Jekyll
-enter `gem install jekyll` in Git Bash
+enter the following in Git Bash:
+
+`gem install jekyll` 
+
+`gem install jekyll bundler`
 
 You are now ready to create your first Jekyll website!
+
+Before creating your first site, it is recommended you create a folder to store all the jekyll sites you make in one place. This is helpful when pushing to GitHub and hosting on GitHub Pages or similar. 
+
+Head over to the [official Jekyll website](https://jekyllrb.com/) to learn more about Jekyll and how it works. 
+Jekyll is written in Ruby, so if you're new to Ruby click [here](https://jekyllrb.com/docs/ruby-101/) to learn about some terminology you will need to know.
+
+[Quickstart Instructions](https://jekyllrb.com/docs/) - get up and running locally in 3 lines of code
+
+**Note**: this will take you to the Jekyll documentation. Use the links in the table of contents on the right of the page to learn more about how to use Jekyll.
+
+
+
+
+
+
+
+
+
+
