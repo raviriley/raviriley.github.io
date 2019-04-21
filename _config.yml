@@ -85,7 +85,7 @@ author:
       # icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:raviriley@gmail.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/raviriley/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
