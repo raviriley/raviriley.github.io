@@ -40,7 +40,7 @@ words_per_minute: 225
 permalink    : /:categories/:title/
 paginate     : 5 #amount of pages to show
 paginate_path: /page:num/
-timezone     : # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone     : null # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -52,15 +52,15 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - _posts/templates
 # Plugins (previously gems:)
 plugins:
   - jekyll-remote-theme
