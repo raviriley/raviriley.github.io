@@ -3,6 +3,7 @@ layout: single
 title:  "Setting Up Windows for Jekyll"
 date:   2019-04-20 16:20:00 -0800
 categories: tutorial
+toc: true
 ---
 
 This is a tutorial for Windows users on how to set up for development of a static site generated with Jekyll. 
