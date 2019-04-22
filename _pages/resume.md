@@ -8,3 +8,5 @@ permalink: /resume/
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/resume-draft.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+<a href="/resume-draft.pdf">Download PDF</a>
