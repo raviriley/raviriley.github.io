@@ -91,7 +91,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/raviriley"
     - label: "Thingiverse"
-      icon: "fas fa-fw fa-link"
+      icon: "/assets/images/thingiverse-logo.png"
       url: "https://thingiverse.com/raviriley"
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
