@@ -6,24 +6,25 @@ categories: tutorial
 toc: true
 ---
 
-This is a tutorial for Windows users on how to set up for development of a static site generated with Jekyll. 
+This is a tutorial for Windows users on how to set up for development of a static site generated with Jekyll. This tutorial assumes the user has administrator access to the computer.
 
 **Note**: if you don't know if your system type, go to System Information and check System Type. x64 is 64 bit and x86 is 32 bit. You will need to know this information.
 
 ## Install Git
 <https://git-scm.com/downloads> - default download settings
+This will install Git Bash, Git CMD (deprecated), and Git GUI. We will be using Git Bash, a Bash shell for Windows.
 
 ## Install Chocolatey
-we could manually install everything but Chocolately is a package manager for Windows that does it all for us (big good)
+We could manually install everything but [Chocolately](https://chocolatey.org/) is a package manager for Windows that does it all for us (big good)
 
 Run one of the following in either Command Prompt or Windows Powershell (your choice):
 
-**PowerShell**:
+**PowerShell**: run as administrator
 ~~~
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ~~~~
 
-**CMD**:
+**CMD**: run as administrator
 ~~~
 @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 ~~~~
@@ -83,7 +84,7 @@ Jekyll is written in Ruby, so if you're new to Ruby click [here](https://jekyllr
 
 [Quickstart Instructions](https://jekyllrb.com/docs/) - get up and running locally in 3 lines of code
 
-**Note**: this will take you to the Jekyll documentation. Use the links in the table of contents on the right of the page to learn more about how to use Jekyll.
+**Note**: this will take you to the Jekyll documentation, where you can learn more about how to use Jekyll.
 
 
 
