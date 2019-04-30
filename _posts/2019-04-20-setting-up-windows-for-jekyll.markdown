@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Setting Up Windows for Jekyll"
-date:   2019-04-20 16:20:00 -0800
+title:  "Setting Up a Ruby Development Environment on Windows for Jekyll"
+date:   2019-04-29 16:20:00 -0800
 categories: tutorial
 toc: true
 ---
@@ -48,7 +48,7 @@ Once the installation is complete, run
 
 `choco upgrade msys2`
 
-Next, open an MSYS2 window (search for MSYS2 in the start menu - it may be called "MSYS2 mingGW [64 or 32]-bit" or similar) and run the following: 
+Next, open an MSYS2 console window (search for MSYS2 in the start menu - it may be called "MSYS2 mingGW [64 or 32]-bit" or similar) and run the following: 
 
 `pacman -Sy pacman`
 
@@ -58,7 +58,10 @@ Then, open CMD and type:
 
 `ridk install`
 
-3 options should appear - choose `MSYS2 and MINGW development toolchain` - this should be option 3, in which case you type in 3 and hit enter.
+![ridk install CMD window example](https://cdn-images-1.medium.com/max/1600/1*EeqEcdKi0e0EHvyYhdUzrA.png)
+*[Image Source](https://cdn-images-1.medium.com/max/1600/1*EeqEcdKi0e0EHvyYhdUzrA.png)*
+
+3 options should appear - we want `MSYS2 and MINGW development toolchain` so type in 3 and hit enter.
 
 If this fails, run the following:
 
@@ -84,7 +87,7 @@ Jekyll is written in Ruby, so if you're new to Ruby click [here](https://jekyllr
 
 [Quickstart Instructions](https://jekyllrb.com/docs/) - get up and running locally in 3 lines of code
 
-**Note**: this will take you to the Jekyll documentation, where you can learn more about how to use Jekyll.
+**Note**: these will take you to the Jekyll documentation, where you can learn more about how to use Jekyll.
 
 
 
