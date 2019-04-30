@@ -21,7 +21,7 @@ minimal_mistakes_skin: default
 locale: "en-US"
 title          : "Ravi Riley"
 title_separator: "|"
-name           : "Your Name"
+name           : "Ravi Riley"
 description    : "My site hosts my resume and other stuff."
 url            : "https://raviriley.github.io"
 baseurl        : ""
@@ -32,7 +32,6 @@ repository     : raviriley/raviriley.github.io
 search         : true
 search_provider: lunr 
 #algolia search https://mmistakes.github.io/minimal-mistakes/docs/configuration/#algolia
-
 
 words_per_minute: 225
 
@@ -77,7 +76,7 @@ github_username: raviriley
 author:
   name    : "Ravi Riley"
   avatar  : "/assets/images/bio-pic.png"
-  bio     : "My awesome biography constrained to a sentence or two goes here."
+  bio     : "bio lorem ipsum animal style fries extra extra large neopolitan shake two by four protein animal style double double"
   #location:
   email   : "raviriley@gmail.com"
   links:
