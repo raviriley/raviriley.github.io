@@ -21,3 +21,10 @@ Currently has splash page and portfolio
 {% include feature_row %}
 
 **note:** smaller images = faster loading times
+{: .notice}
+
+mmistakes archive layout w content
+
+[page](https://mmistakes.github.io/minimal-mistakes/archive-layout-with-content/)
+[raw source markdown](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_pages/archive-layout-with-content.md)
+
