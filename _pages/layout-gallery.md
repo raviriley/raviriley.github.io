@@ -1,19 +1,23 @@
 ---
 title: Layout Gallery
 permalink: /layout-gallery/
-gallery:
-  - url: /splash-layout/
-    #image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    #alt: "Splash Layout"
-    title: "Splash Layout"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+feature_row:
+  - url: /splash-page/
+    image_path: /assets/images/unsplash-gallery-image-2.jpg
+    alt: "Splash Page"
+    title: "Splash Page"
+  - url: /portfolio/
+    image_path: /assets/images/unsplash-gallery-image-1.jpg
+    alt: "Portfolio"
+    title: "Portfolio"
+  - url: https://unsplash.com/@petefogden?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge
+    image_path: /assets/images/unsplash-gallery-image-3.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    title: "Image"
 ---
 
-{% include gallery %}
+Currently has splash page and portfolio
+
+{% include feature_row %}
+
+**note:** smaller images = faster loading time
