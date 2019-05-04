@@ -1,14 +1,15 @@
 ---
 layout: single
-title:  "Setting Up a Ruby Development Environment on Windows for Jekyll"
-date:   2019-04-29 16:20:00 -0800
+title:  "Setting Up a Ruby Development Environment on Windows"
+date:   2019-05-04 05:04:00 -0800
 categories: tutorial
 toc: true
 ---
 
 This is a tutorial for Windows users on how to set up for development of a static site generated with Jekyll. This tutorial assumes the user has administrator access to the computer.
 
-**Note**: if you don't know if your system type, go to System Information and check System Type. x64 is 64 bit and x86 is 32 bit. You will need to know this information.
+**Note**: if you don't know if your system type, go to System Information and check System Type. x64 is 64 bit and x86 is 32 bit. You will need to know this information. 
+{: .notice}
 
 ## Install Git
 <https://git-scm.com/downloads> - default download settings
@@ -29,7 +30,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 ~~~~
 
-**Note**: these are both *one line of code*
+**Note**: these are both *one line of code* 
+{: .notice}
 
 Now, open a Git Bash command line window and enter:
 
@@ -38,6 +40,10 @@ Now, open a Git Bash command line window and enter:
 Let that finish & close the window, then open a new Git Bash window and run
 
 `choco upgrade ruby`
+
+To check if rails intalled correctly, enter:
+
+`ruby -v`
 
 ## Install MSYS2
 Now, we need to install MSYS2, a building tool for Windows with a built in package manager called Pacman. This is used when compiling Ruby gems and is needed to install Jekyll. Run the following from the Git Bash command line:
@@ -60,6 +66,7 @@ Then, open CMD and type:
 
 ![ridk install CMD window example](https://cdn-images-1.medium.com/max/1600/1*EeqEcdKi0e0EHvyYhdUzrA.png)
 *[Image Source](https://cdn-images-1.medium.com/max/1600/1*EeqEcdKi0e0EHvyYhdUzrA.png)*
+{: .small}
 
 3 options should appear - we want `MSYS2 and MINGW development toolchain` so type in 3 and hit enter.
 
@@ -71,10 +78,10 @@ If this fails, run the following:
 
 this will run manual installation.
 
-## Setting up Jekyll
-enter the following in Git Bash:
+## Setting up Jekyll (Optional)
+If you intend to develop a website using jekyll, after completing steps 1-3, enter the following in Git Bash:
 
-`gem install jekyll` 
+`gem update --system`
 
 `gem install jekyll bundler`
 
@@ -87,14 +94,26 @@ Jekyll is written in Ruby, so if you're new to Ruby click [here](https://jekyllr
 
 [Quickstart Instructions](https://jekyllrb.com/docs/) - get up and running locally in 3 lines of code
 
-**Note**: these will take you to the Jekyll documentation, where you can learn more about how to use Jekyll.
+**Note**: these will take you to the Jekyll documentation, where you can learn more about how to use Jekyll. 
+{: .notice}
+
+## Setting Up Ruby on Rails (Optional)
+If you intend to develop with Rails, after completing steps 1-3, enter the following in Git Bash:
+
+`gem update --system`
+
+[Install C-dependent Gems (Nokogiri / SQLite3 etc)](https://medium.com/ruby-on-rails-web-application-development/how-to-install-rubyonrails-on-windows-7-8-10-complete-tutorial-2017-fc95720ee059#4bc5)
+Follow the instructions in the link above to download dependencies needed to install rails.
+
+After successfully completing the linked instructions, enter the following in Git Bash:
+
+`gem install rails`
+
+To check if rails intalled correctly, enter:
+
+`rails -v`
+
+To learn more about Ruby on Rails visit the [official website](https://rubyonrails.org/).
 
 
-
-
-
-
-
-
-
-
+[Back to Top](#){: .btn .btn--inverse}
