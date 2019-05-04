@@ -20,4 +20,4 @@ Currently has splash page and portfolio
 
 {% include feature_row %}
 
-**note:** smaller images = faster loading time
+**note:** smaller images = faster loading times
