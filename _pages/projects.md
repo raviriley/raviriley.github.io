@@ -5,7 +5,5 @@ permalink: /projects/
 
 [Layout Gallery](/layout-gallery/)
 
-[Portfolio](/portfolio/)
-
-[Splash Page](/splash-page/)
+[Intoolovation](https://intoolovation.com)
 
