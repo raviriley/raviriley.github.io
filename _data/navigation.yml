@@ -8,5 +8,5 @@ main:
   - title: "Projects"
     url: /projects/
     
-  # - title: "About"
-    # url: /about/
+  - title: "Layout Gallery"
+    url: /layout-gallery/
