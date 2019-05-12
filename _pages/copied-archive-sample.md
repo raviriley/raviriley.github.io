@@ -1,5 +1,6 @@
 ---
 title: "Pages Archive Layout with Content"
+excerpt: A variety of common markup showing how this theme styles them.
 layout: archive
 permalink: /archive-sample/
 ---
@@ -36,6 +37,7 @@ Based on [Minimal Mistakes sample archive page](https://mmistakes.github.io/mini
 {: .small}
 ```
 
+## Headers
 
 # Header one
 
@@ -49,6 +51,19 @@ Based on [Minimal Mistakes sample archive page](https://mmistakes.github.io/mini
 
 ###### Header six
 
+```
+# Header one
+
+## Header two
+
+### Header three
+
+#### Header four
+
+##### Header five
+
+###### Header six
+```
 
 ## Blockquotes
 
@@ -245,6 +260,10 @@ Make any link standout more when applying the `.btn` class.
 ### Anchor Tag (aka. Link)
 
 This is an example of a [link](https://www.traderjoes.com/ "Trader Joe's").
+
+```markdown
+This is an example of a [link](https://www.traderjoes.com/ "Trader Joe's").
+```
 
 ### Abbreviation Tag
 
