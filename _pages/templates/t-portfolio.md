@@ -1,7 +1,7 @@
 ---
 title: "Portfolio Template"
 permalink: /portfolio-template/
-excerpt: "Template design system including logo mark, website design, and branding applications."
+excerpt: "Template portfolio page"
 author_profile: false
 header:
   image:  /assets/images/unsplash-gallery-image-1.jpg
