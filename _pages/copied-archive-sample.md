@@ -9,23 +9,31 @@ Based on [Minimal Mistakes sample archive page](https://mmistakes.github.io/mini
 [*(raw source)*](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_pages/archive-layout-with-content.md) 
 {: .small}
 
-![Sample Image](/assets/images/unsplash-gallery-image-3.jpg)
-[*Image Source*](https://unsplash.com/@petefogden?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge)
-{: .small}
-
+Exploring this page will teach you some Markdown syntax, both general syntax and syntax specific to this theme. For example, the Markdown for the text above is as follows:
 ```markdown
-[//]: # ( markdown syntax for image above: )
+[//]: # ( markdown syntax for above: )
 
 Based on [Minimal Mistakes sample archive page](https://mmistakes.github.io/minimal-mistakes/archive-layout-with-content/)
 [*(raw source)*](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_pages/archive-layout-with-content.md) 
 {: .small}
 
+[//]: # ( {: .small} is specific to this theme )
+```
+
+### Comments in Markdown
+```markdown
+[//]: # (This syntax works like a comment, and won't appear in any output. Writing it this way ensures it won't show up when converting Markdown to other formats)
+```
+
+## Images 
 ![Sample Image](/assets/images/unsplash-gallery-image-3.jpg)
 [*Image Source*](https://unsplash.com/@petefogden?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge)
 {: .small}
 
-[//]: # ( {: .small} is specific to this theme )
-note: [//]: # (This syntax works like a comment, and won't appear in any output. Writing it this way ensures it won't show up when converting Markdown to other formats)
+```markdown
+![Sample Image](/assets/images/unsplash-gallery-image-3.jpg)
+[*Image Source*](https://unsplash.com/@petefogden?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge)
+{: .small}
 ```
 
 
@@ -316,8 +324,10 @@ This tag styles large blocks of code.
 
 <q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
 
-```html
+```markdown
 <q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+
+[//]: # ( &#8230; is the Unicode character value for ellipsis ... and &#8211; is for an – en dash –)
 ```
 
 ### Strong Tag
