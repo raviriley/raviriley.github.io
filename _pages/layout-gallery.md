@@ -1,5 +1,6 @@
 ---
 title: Layout Gallery
+excerpt: A showcase of different possible page layouts
 permalink: /layout-gallery/
 feature_row:
   - url: /splash-page/
@@ -22,10 +23,4 @@ Showcase of different possible page layouts
 
 **note:** smaller images = faster loading times
 {: .notice}
-
-mmistakes archive layout w content
-
-[page](https://mmistakes.github.io/minimal-mistakes/archive-layout-with-content/)
-
-[raw source markdown](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_pages/archive-layout-with-content.md)
 
