@@ -3,7 +3,7 @@ title: "Pages Archive Layout with Content"
 layout: archive
 permalink: /archive-sample/
 ---
-### A variety of common markup showing how this theme styles them. 
+#### A variety of common markup showing how this theme styles them. 
 
 Based on [Minimal Mistakes sample archive page](https://mmistakes.github.io/minimal-mistakes/archive-layout-with-content/)
 [*(raw source)*](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_pages/archive-layout-with-content.md) 
