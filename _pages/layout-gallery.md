@@ -10,13 +10,13 @@ feature_row:
     image_path: /assets/images/unsplash-gallery-image-1.jpg
     alt: "Portfolio"
     title: "Portfolio"
-  - url: https://unsplash.com/@petefogden?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge
+  - url: /archive-sample/
     image_path: /assets/images/unsplash-gallery-image-3.jpg
-    alt: "placeholder image 3"
-    title: "Image"
+    alt: "Pages Archive"
+    title: "Archive"
 ---
 
-Currently has splash page and portfolio
+Showcase of different possible page layouts
 
 {% include feature_row %}
 
