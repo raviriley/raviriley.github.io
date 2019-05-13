@@ -37,6 +37,10 @@ Based on [Minimal Mistakes sample archive page](https://mmistakes.github.io/mini
 {: .small}
 ```
 
+## Image Galleries
+
+[Posting Image Galleries](https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/)
+
 ## Headers
 
 # Header one
