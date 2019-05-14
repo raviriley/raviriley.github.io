@@ -2,11 +2,11 @@
 layout: single
 title:  "Setting Up a Ruby Development Environment on Windows"
 date:   2019-05-04 05:04:00 -0800
-categories: tutorial
+excerpt: "Tutorial for setting up Ruby on Windows with Jekyll or Rails"
+categories: tutorial, pinned
 toc: true
 ---
-
-This is a tutorial for Windows users on how to set up for development of a static site generated with Jekyll. This tutorial assumes the user has administrator access to the computer.
+This is a tutorial for Windows users on how to set up a Ruby development environment for development of a site created with Rails or generated with Jekyll. This tutorial assumes the user has administrator access to the computer.
 
 **Note**: if you don't know if your system type, go to System Information and check System Type. x64 is 64 bit and x86 is 32 bit. You will need to know this information. 
 {: .notice}
