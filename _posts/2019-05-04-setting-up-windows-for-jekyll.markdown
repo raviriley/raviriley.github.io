@@ -3,7 +3,7 @@ layout: single
 title:  "Setting Up a Ruby Development Environment on Windows"
 date:   2019-05-04 05:04:00 -0800
 excerpt: "Tutorial for setting up Ruby on Windows with Jekyll or Rails"
-categories: tutorial, pinned
+categories: pinned, tutorial
 toc: true
 ---
 This is a tutorial for Windows users on how to set up a Ruby development environment for development of a site created with Rails or generated with Jekyll. This tutorial assumes the user has administrator access to the computer.
