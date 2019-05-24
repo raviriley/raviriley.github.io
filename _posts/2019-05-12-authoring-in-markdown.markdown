@@ -2,7 +2,8 @@
 layout: single
 title:  "Authoring in Markdown"
 date:   2019-05-12 03:14:15 -0800
-categories: tutorial
+categories: 
+  - tutorial
 toc: true
 ---
 
