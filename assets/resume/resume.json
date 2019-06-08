@@ -1,0 +1,100 @@
+{
+  "selectedTemplate": 4,
+  "headings": {
+    "projects": "",
+    "awards": "Awards"
+  },
+  "basics": {
+    "name": "Ravi Riley",
+    "email": "raviriley@gmail.com",
+    "website": "raviriley.github.io/",
+    "location": {
+      "address": "CA"
+    }
+  },
+  "education": [
+    {
+      "institution": "Crescenta Valley High School",
+      "location": "La Crescenta, CA",
+      "area": "",
+      "startDate": "2016",
+      "endDate": "2020",
+      "gpa": ""
+    }
+  ],
+  "work": [
+    {
+      "company": "Intoolovation",
+      "position": "Prototyping Engineer and Web Developer",
+      "website": "",
+      "highlights": [
+        ""
+      ],
+      "endDate": "Present",
+      "startDate": "June 2018"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Python",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Ruby"
+      ]
+    },
+    {
+      "keywords": [
+        "English",
+        "Chinese (Mandarin)"
+      ],
+      "name": "Languages"
+    },
+    {
+      "keywords": [
+        "Construction, maintenance, and operation of a 3D printer"
+      ],
+      "name": "3D Printing Hardware"
+    },
+    {
+      "keywords": [
+        "Simplify 3D",
+        "Cura",
+        "Meshmixer",
+        "Netfabb"
+      ],
+      "name": "3D Printing Software"
+    }
+  ],
+  "projects": [
+    {
+      "name": "3D VISUALIZATION OF DEMOGRAPHIC DATA",
+      "description": "Software that uses demographic data to generate a 3-dimensional map",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "COMPUTER PROBLEM SOLVING TOP 10 FINALIST",
+      "summary": "Recognized for achievement on an assessment of computer problem solving ability",
+      "awarder": "Future Business Leaders of America (FBLA)",
+      "date": "February 2019"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
