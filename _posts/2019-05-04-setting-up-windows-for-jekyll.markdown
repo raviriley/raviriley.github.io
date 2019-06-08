@@ -97,7 +97,7 @@ Jekyll is written in Ruby, so if you're new to Ruby click [here](https://jekyllr
 
 [Quickstart Instructions](https://jekyllrb.com/docs/) - get up and running locally in 3 lines of code
 
-**Note**: these will take you to the Jekyll documentation, where you can learn more about how to use Jekyll. 
+**Note**: these links will take you to the Jekyll documentation, where you can learn more about how to use Jekyll. 
 {: .notice}
 
 ## Setting Up Ruby on Rails (Optional)
