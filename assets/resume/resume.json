@@ -49,9 +49,9 @@
     },
     {
       "highlights": [
-        "Leader of a group of fellow high school students in designing a robot from the ground up",
+        "Led the design process from initial conceptualization to producing detailed CAD",
         "Created fabrication drawings, renders, and CAD of 3 different robots",
-        "Helped the team win the Engineering Inspiration Award and Chairman's Award"
+        "Worked on prototyping, design, testing, systems integration, and electronics subsystems"
       ],
       "company": "FRC 589 Robotics",
       "position": "Team Member, CAD and Design Team Leader",
@@ -66,9 +66,9 @@
       "keywords": [
         "Java",
         "Python",
-        "Javascript",
         "HTML",
         "CSS",
+        "Javascript",
         "Ruby"
       ]
     },
@@ -81,7 +81,7 @@
     },
     {
       "keywords": [
-        "Construction, maintenance, and operation of a 3D printer"
+        "Construction, maintenance, and operation of any FDM 3D printer"
       ],
       "name": "3D Printing Hardware"
     },
@@ -115,7 +115,7 @@
   ],
   "awards": [
     {
-      "title": "COMPUTER PROBLEM SOLVING TOP 10 FINALIST",
+      "title": "Computer Problem Solving Top 10 Finalist",
       "summary": "Recognized for achievement on an assessment of computer problem solving ability",
       "awarder": "Future Business Leaders of America (FBLA)",
       "date": "February 2019"
