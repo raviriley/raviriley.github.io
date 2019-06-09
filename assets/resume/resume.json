@@ -7,7 +7,7 @@
   "basics": {
     "name": "Ravi Riley",
     "email": "raviriley@gmail.com",
-    "website": "raviriley.github.io/",
+    "website": "raviriley.github.io",
     "location": {
       "address": "CA"
     }
@@ -28,10 +28,35 @@
       "position": "Prototyping Engineer and Web Developer",
       "website": "",
       "highlights": [
-        ""
+        "Turning conceptual ideas into real products with Computer Aided Design software",
+        "Using 3D printing to prototype patented inventions",
+        "Design, development, management, and content creation for intoolovation.com for the sale of Intoolovation's products"
       ],
       "endDate": "Present",
       "startDate": "June 2018"
+    },
+    {
+      "highlights": [
+        "Founder of an on-demand 3D printing and CAD/3D modeling/design business",
+        "Sale of products I design and fabricate",
+        "Creating custom products tailored to customers' needs"
+      ],
+      "company": "Freelance 3D Printing & CAD",
+      "position": "3D Printing & Design Specialist",
+      "startDate": "July 2016",
+      "endDate": "Present",
+      "location": "(200+ Orders)"
+    },
+    {
+      "highlights": [
+        "Leader of a group of fellow high school students in designing a robot from the ground up",
+        "Created fabrication drawings, renders, and CAD of 3 different robots",
+        "Helped the team win the Engineering Inspiration Award and Chairman's Award"
+      ],
+      "company": "FRC 589 Robotics",
+      "position": "Team Member, CAD and Design Team Leader",
+      "startDate": "January 2016",
+      "endDate": "Present"
     }
   ],
   "skills": [
@@ -68,6 +93,14 @@
         "Netfabb"
       ],
       "name": "3D Printing Software"
+    },
+    {
+      "keywords": [
+        "Autodesk (Inventor, Fusion 360, 123D, etc.)",
+        "OpenSCAD",
+        "SketchUp"
+      ],
+      "name": "Computer Aided Design"
     }
   ],
   "projects": [
