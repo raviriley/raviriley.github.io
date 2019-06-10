@@ -24,13 +24,13 @@
   ],
   "work": [
     {
-      "company": "Intoolovation",
+      "company": "Intoolovation, Inc.",
       "position": "Prototyping Engineer and Web Developer",
       "website": "",
       "highlights": [
         "Turning conceptual ideas into real products with Computer Aided Design software",
         "Using 3D printing to prototype patented inventions",
-        "Design, development, management, and content creation for intoolovation.com for the sale of Intoolovation's products"
+        "Design, development, maintenance, and content creation for intoolovation.com for the sale of Intoolovation's products"
       ],
       "endDate": "Present",
       "startDate": "June 2018"
@@ -39,23 +39,34 @@
       "highlights": [
         "Founder of an on-demand 3D printing and CAD/3D modeling/design business",
         "Sale of products I design and fabricate",
-        "Creating custom products tailored to customers' needs"
+        "Designing custom products tailored to customers' needs",
+        "500+ orders"
       ],
       "company": "Freelance 3D Printing & CAD",
       "position": "3D Printing & Design Specialist",
       "startDate": "July 2016",
-      "endDate": "Present",
-      "location": "(200+ Orders)"
+      "endDate": "Present"
     },
     {
       "highlights": [
-        "Led the design process from initial conceptualization to producing detailed CAD",
-        "Created fabrication drawings, renders, and CAD of 3 different robots",
-        "Worked on prototyping, design, testing, systems integration, and electronics subsystems"
+        "Lead the design process from initial conceptualization to producing detailed CAD",
+        "Create fabrication drawings, renders, and CAD of 3 different robots",
+        "Worked on prototyping, design, testing, systems integration, and electronics subsystems",
+        "Helped the team win the Engineering Inspiration Award and the Chairman's Award"
       ],
       "company": "FRC 589 Robotics",
       "position": "Team Member, CAD and Design Team Leader",
       "startDate": "January 2016",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Teach AP Computer Science students topics in Java",
+        "Manage team communications with Slack",
+        ""
+      ],
+      "company": "CV Enterprises",
+      "startDate": "June 2018",
       "endDate": "Present"
     }
   ],
@@ -69,7 +80,8 @@
         "HTML",
         "CSS",
         "Javascript",
-        "Ruby"
+        "Ruby",
+        "C#"
       ]
     },
     {
@@ -105,11 +117,8 @@
   ],
   "projects": [
     {
-      "name": "3D VISUALIZATION OF DEMOGRAPHIC DATA",
-      "description": "Software that uses demographic data to generate a 3-dimensional map",
-      "url": "",
       "keywords": [
-        ""
+        null
       ]
     }
   ],
@@ -119,6 +128,12 @@
       "summary": "Recognized for achievement on an assessment of computer problem solving ability",
       "awarder": "Future Business Leaders of America (FBLA)",
       "date": "February 2019"
+    },
+    {
+      "title": "Scholar Athlete",
+      "awarder": "Cross Country, Track, and Volleyball",
+      "summary": "Recognized for maintaining a 3.5 or higher GPA while participating in a sport; received six times total in Cross Country, Track, and Volleyball, and received the Highest GPA Award twice",
+      "date": "2016, 2017, 2018, 2019"
     }
   ],
   "sections": [
