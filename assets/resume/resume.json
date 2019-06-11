@@ -50,7 +50,7 @@
     {
       "highlights": [
         "Lead the design process from initial conceptualization to producing detailed CAD",
-        "Create fabrication drawings, renders, and CAD of 3 different robots",
+        "Created fabrication drawings, renders, and CAD of 3 different robots",
         "Worked on prototyping, design, testing, systems integration, and electronics subsystems",
         "Helped the team win the Engineering Inspiration Award and the Chairman's Award"
       ],
@@ -108,7 +108,7 @@
     },
     {
       "keywords": [
-        "Autodesk (Inventor, Fusion 360, 123D, etc.)",
+        "Autodesk (Inventor, Fusion 360)",
         "OpenSCAD",
         "SketchUp"
       ],
@@ -118,7 +118,28 @@
   "projects": [
     {
       "keywords": [
-        null
+        "Unity",
+        "C#",
+        ""
+      ],
+      "name": "Crescenta Valley Trivia Rally",
+      "description": "Developed an Android game hosted on the Play store (dozens of downloads) that quizzes students on CVHS trivia."
+    },
+    {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Liquid",
+        "Shopify",
+        ""
+      ],
+      "name": "Intoolovation Website",
+      "url": "intoolovation.com",
+      "description": "Built an e-commerce website for the sale of Intoolovation's produts"
+    },
+    {
+      "keywords": [
+        ""
       ]
     }
   ],
@@ -131,7 +152,7 @@
     },
     {
       "title": "Scholar Athlete",
-      "awarder": "Cross Country, Track, and Volleyball",
+      "awarder": "Varsity Cross Country, Track, and Volleyball",
       "summary": "Recognized for maintaining a 3.5 or higher GPA while participating in a sport; received six times total in Cross Country, Track, and Volleyball, and received the Highest GPA Award twice",
       "date": "2016, 2017, 2018, 2019"
     }
