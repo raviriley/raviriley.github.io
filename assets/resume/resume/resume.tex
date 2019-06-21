@@ -1,0 +1,164 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This is a modified ONE COLUMN version of
+% the following template:
+%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.1 (30/4/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add styling information for a "Projects/Hacks" section.
+% 4. Add location/address information
+% 5. Merge OpenFont and MacFonts as a single sty with options.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[]{deedy-resume-openfont}
+
+\begin{document}
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     Profile
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Ravi}{Riley}{raviriley@gmail.com | Los Angeles, CA | raviriley.github.io}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     Education
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Crescenta Valley High School}
+\raggedright
+
+\runsubsection{Extracurriculars}\hfill \location{La Crescenta, CA | 2016 - 2020}
+\begin{tightemize}
+	\item Founder and President of Ping Pong Club
+	\item President of Future Business Leaders of America
+	\item Vice President of Math Competition Club
+	\item Link Crew Leader
+	\item CO.ACT Club CAD Creator
+	\item Culture Club Presenter
+	\item Rubik's Cube Club
+	\item CAD Leader of FRC Team 589 Robotics
+	\item CV Enterprises Founding Member and Leader
+\end{tightemize}
+\sectionsep
+\runsubsection{Athletics}\hfill \location{ }
+\begin{tightemize}
+	\item Varsity Cross Country (16:48 3 mile PR)
+	\item Varsity Track (2:04 800m PR, 4:57 1600m PR)
+	\item JV Volleyball (middle hitter)
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     Experience
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Experience}
+\runsubsection{Intoolovation, Inc.}\descript{| Prototyping Engineer and Web Developer}\hfill \location{June 2018 – Present}
+\begin{tightemize}
+	\item Turning conceptual ideas into real products with Computer Aided Design software
+	\item Using 3D printing to prototype patented inventions
+	\item Design, development, maintenance, and content creation for intoolovation.com for the sale of Intoolovation\textquotesingle{}s products
+\end{tightemize}
+\sectionsep
+\runsubsection{Freelance 3D Printing \& CAD}\descript{| 3D Printing \& Design Specialist}\hfill \location{July 2016 – Present}
+\begin{tightemize}
+	\item Founder of an on-demand 3D printing and CAD/3D modeling/design business
+	\item Sale of products I design and fabricate
+	\item Designing custom products tailored to customers\textquotesingle{} needs
+	\item 500+ orders
+\end{tightemize}
+\sectionsep
+\runsubsection{FRC 589 Robotics}\descript{| Team Member, CAD and Design Team Leader}\hfill \location{January 2016 – Present}
+\begin{tightemize}
+	\item Led the design process from initial conceptualization to producing detailed CAD
+	\item Created fabrication drawings, renders, and CAD of 3 different robots
+	\item Worked on prototyping, design, testing, systems integration, and electronics subsystems
+	\item Helped the team win the Engineering Inspiration Award and the Chairman\textquotesingle{}s Award
+\end{tightemize}
+\sectionsep
+\runsubsection{CV Enterprises}\hfill \location{June 2018 – Present}
+\begin{tightemize}
+	\item Helped to found a software freelancing company at Crescenta Valley High School
+	\item Manage team communications with Slack
+	\item Teach AP Computer Science students topics in Java
+\end{tightemize}
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     Skills
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Skills}
+\raggedright
+\begin{tabular}{ l l }
+	\descript{Programming Languages} & {\location{Java, Python, HTML, CSS, Javascript, Ruby, C\#}}                 \\
+	\descript{Languages}             & {\location{English, Chinese (Mandarin)}}                                    \\
+	\descript{3D Printing Hardware}  & {\location{Construction, maintenance, and operation of any FDM 3D printer}} \\
+	\descript{3D Printing Software}  & {\location{Simplify 3D, Cura, Meshmixer, Netfabb}}                          \\
+	\descript{Computer Aided Design} & {\location{Autodesk (Inventor, Fusion 360), OpenSCAD, SketchUp}}            \\
+\end{tabular}
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     Projects
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Projects}
+\raggedright
+
+\runsubsection{\large{Crescenta Valley Trivia Rally}}
+\descript{| Unity, C\#}\\
+Developed an Android game hosted on the Play store (dozens of downloads) that quizzes students on CVHS trivia.\\
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     Awards
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Awards}
+\runsubsection{\large{Computer Problem Solving Top 10 Finalist}} \descript{Future Business Leaders of America (FBLA) | February 2019} \\
+Recognized for achievement on an assessment of computer problem solving ability\\
+\sectionsep
+\runsubsection{\large{Scholar Athlete}} \descript{Varsity Cross Country, Track, and Volleyball | 2016, 2017, 2018, 2019} \\
+Recognized for maintaining a 3.5 or higher GPA while participating in a sport; received six times total in Cross Country, Track, and Volleyball, and received the Highest GPA Award twice\\
+\sectionsep
+\ 
+\end{document}
