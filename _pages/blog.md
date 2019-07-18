@@ -1,9 +1,7 @@
 ---
-title: About
-permalink: /about/
+title: Blog
+permalink: /blog/
+layout: home-pinned
+author_profile: true
 ---
-
-lorem ipsum
-
-competencies vs skills
 
