@@ -23,7 +23,7 @@ locale: "en-US"
 title          : "Ravi Riley"
 title_separator: "|"
 name           : "Ravi Riley"
-description    : "My site hosts my resume and other stuff."
+description    : "personal site that hosts my resume and projects"
 url            : "https://raviriley.github.io"
 baseurl        : ""
 repository     : raviriley/raviriley.github.io
@@ -77,7 +77,7 @@ github_username: raviriley
 author:
   name    : "Ravi Riley"
   avatar  : "/assets/images/bio-pic.png"
-  bio     : "bio lorem ipsum animal style fries extra extra large neopolitan shake two by four protein animal style double double"
+  bio     : "Senior in high school working on CAD, 3D printing, and coding. Founded a 3D printing and modeling business and helped build a software company connecting high school programmers to local businesses."
   #location:
   email   : "raviriley@gmail.com"
   links:
