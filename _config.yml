@@ -135,4 +135,18 @@ defaults:
       layout: single
       author_profile: true
       toc_sticky: true
+      
+#Links for animated responsive gallery
+animated-gallery:
+  links:
+    - label: "**Layout Gallery**"
+      image: "/assets/images/test/Capture0.png"
+      url: "/layout-gallery/"
+    - label: "Intoolovation"
+      image: "/assets/images/test/Capture1.png"
+      url: "https://intoolovation.com"
+    - label: "Markdown Showcase"
+      image: "/assets/images/test/Capture2.png"
+      url: "/archive-sample/"
+
 #end
