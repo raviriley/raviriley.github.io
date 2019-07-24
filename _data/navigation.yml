@@ -11,3 +11,15 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
+projects:
+  - title: "Layout Gallery"
+    url: /layout-gallery/
+    
+  - title: "Intoolovation"
+    url: https://intoolovation.com
+    
+  - title: "Markdown Showcase"
+    url: /archive-sample/
+    
+  - title: "Chrome New Tab Countdown Extension"
+    url: /#/
