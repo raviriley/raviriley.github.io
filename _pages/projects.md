@@ -2,6 +2,9 @@
 title: Projects
 permalink: /projects/
 classes: wide
+sidebar: 
+  nav: "projects"
+author_profile: true
 ---
 <!-- adapted from http://www.menucool.com/ui/responsive-image-grid-with-hover-effect -->
 <ul id="rig">
