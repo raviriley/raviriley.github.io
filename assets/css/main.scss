@@ -73,18 +73,18 @@
 /* If have captions */
 .rig-text {
     display:block;
-    padding:0 30px;
+    /*padding:0 30px;*/
     box-sizing:border-box;
     position:absolute;
-    left:0;
-    width:100%;
+    top: 15%; left: 0; bottom: 0; right: 0;
+	margin: auto;
+    width:90%;
     text-align:center;
-    text-transform:capitalize;
+    /*text-transform:capitalize;*/
     font-size:18px;
     font-weight:bold;
     font-family: 'Oswald', sans-serif;
     font-weight:normal!important;
-    top:40%;
     color:white;
     opacity:0;
     filter:alpha(opacity=0);/*For older IE*/
