@@ -9,7 +9,7 @@ header:
   caption: "[**Unsplash** @petefogden](https://unsplash.com/@petefogden?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge)"
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://placehold.it/350x250
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
