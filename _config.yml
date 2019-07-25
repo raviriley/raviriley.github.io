@@ -140,13 +140,13 @@ defaults:
 animated-gallery:
   links:
     - label: "**Layout Gallery**"
-      image: "/assets/images/capture0.png"
+      image: /assets/images/capture0.png
       url: "/layout-gallery/"
     - label: "Intoolovation"
-      image: "/assets/images/capture1.png"
+      image: /assets/images/capture1.png
       url: "https://intoolovation.com"
     - label: "Markdown Showcase"
-      image: "/assets/images/capture2.png"
+      image: /assets/images/capture2.png
       url: "/archive-sample/"
 
 #end
