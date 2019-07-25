@@ -140,13 +140,13 @@ defaults:
 animated-gallery:
   links:
     - label: "**Layout Gallery**"
-      image: https://placehold.it/1130x1500
+      image: /assets/images/layout-gallery.png
       url: "/layout-gallery/"
     - label: "Intoolovation"
-      image: /assets/images/bio-pic.png
+      image: /assets/images/intoolovation.png
       url: "https://intoolovation.com"
     - label: "Markdown Showcase"
-      image: /assets/images/capture2.png
+      image: /assets/images/markdown-showcase.png
       url: "/archive-sample/"
 
 #end
