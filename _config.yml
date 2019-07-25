@@ -139,14 +139,19 @@ defaults:
 #Links for animated responsive gallery
 animated-gallery:
   links:
+    - label: "**Intoolovation.com**<br/><br/>Shopify-based eCommerce website for the sale of Intoolovation, Inc.'s products"
+      image: /assets/images/intoolovation.PNG
+      url: "https://intoolovation.com"
     - label: "**Layout Gallery**"
       image: /assets/images/layout-gallery.PNG
       url: "/layout-gallery/"
-    - label: "Intoolovation"
-      image: /assets/images/intoolovation.PNG
-      url: "https://intoolovation.com"
-    - label: "Markdown Showcase"
+    - label: "**CV Enterprises**<br/>Official site for a software company connecting CVHS programmers to local businesses that I built with my peers"
+      image: https://placehold.it/1261x858
+      url: "https://cv-enterprises.github.io"
+    - label: "**Markdown Showcase**<br/>sample page to showcase various Markdown features’ syntax and how they look when implemented on this theme"
       image: /assets/images/markdown-showcase.PNG
       url: "/archive-sample/"
-
+    - label: "**Chrome New Tab Countdown Extension**"
+      image: https://placehold.it/1261x858
+      url: "#"
 #end
