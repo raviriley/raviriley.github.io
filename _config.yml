@@ -76,7 +76,8 @@ plugins:
 github_username: raviriley
 author:
   name    : "Ravi Riley"
-  avatar  : "/assets/images/bio-pic.png"
+  #avatar  : "/assets/images/bio-pic.png" #placeholder image
+  avatar  : "/assets/images/senior_portrait_red_background.jpg"
   bio     : "Senior in high school. Founded a 3D printing and modeling business and helped build a software company connecting high school programmers to local businesses."
   #location:
   email   : "raviriley@gmail.com"
