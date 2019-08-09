@@ -146,7 +146,7 @@ animated-gallery:
       image: /assets/images/layout-gallery.PNG
       url: "/layout-gallery/"
     - label: "**CV Enterprises**<br/>Official site for a software company connecting CVHS programmers to local businesses that I built with my peers"
-      image: /assets/images/CVENTlogo.png
+      image: /assets/images/CVENTlogoResized.png
       url: "https://cv-enterprises.github.io"
     - label: "**Markdown Showcase**<br/>sample page to showcase various Markdown features’ syntax and how they look when implemented on this theme"
       image: /assets/images/markdown-showcase.PNG
