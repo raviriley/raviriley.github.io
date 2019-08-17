@@ -65,12 +65,11 @@ exclude:
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  - jekyll-sitemap
 
 #Site Author
 github_username: raviriley
