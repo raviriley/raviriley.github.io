@@ -6,9 +6,6 @@ excerpt: "Where I got in, what I wish I knew before senior year, and other advic
 ---
 Note: I have no under-represented minority status. I am not a recruited athlete and I have won no national awards. My family doesn't have low income status and does not qualify for fee waivers.
 
-<table>
-<tr>
-<td markdown="1" style="vertical-align:top">
 
 #### My Stats
 
@@ -16,13 +13,13 @@ Note: I have no under-represented minority status. I am not a recruited athlete 
 |-----|------|------------|-------------|
 | 4.3 | 1490 |    TBD     |     TBD     |
 
-</td>
-<td markdown="1" style="vertical-align:top">
-#### My Applications (Total Cost: $1000)
 
-<table>
+#### My Applications (Total Cost: $0000)
+
+<table width="100%">
 <tr><th>UCs</th><th>Cal States</th><th>Others</th></tr>
-<tr>
+<tr width="100%">
+
 <td markdown="1" style="vertical-align:top">
 
 | Applied          | Accepted |
@@ -56,9 +53,11 @@ Note: I have no under-represented minority status. I am not a recruited athlete 
 | Caltech  | Yes/No   |
 
 </td>
+
 </tr>
 </table>
-</td>
+
+
 
 # stuff I wish I knew before senior year and other advice
 
@@ -70,8 +69,8 @@ Everything you want to include on college apps must be done before November of y
 
 Remember that many schools have their own ways of calculating GPA, so Google their specific calculators to get a better idea of where you stand.
 
-### Extracurriculars
-**Colleges want a well-rounded class, not a class of well-rounded individuals.** Don't take a bunch of random extracurriculars to pad your college application.
+## Extracurriculars
+**Colleges want a well-rounded class, not a class of well-rounded individuals.** Don't take a bunch of random extracurriculars to pad your college application. 
 
 Focus your activities on a few passions (1 to 2 ideally) and go really in depth on them, doing activities at a high level.
 
@@ -81,14 +80,14 @@ Do a few things and do them really well over doing many things and being okay at
 
 If you are exceptionally good at something, do something that shows you are exceptional at it. For example, of you are really good at math, go win a math competition.
 
-### SAT
+## SAT
 Take your first SAT in your sophomore year of high school. This gives you 2 years to work your way up to the score you want. Also, getting the SAT out of the way early on is just one less thing you have to worry about junior/senior year, you will be busy enough as it is.
 
 If any of the schools you are even *considering* applying to recommend SAT Subject Tests, take them as early as you can. Again, one less thing you'll have to worry about.
 
 Don't disregard the PSAT as useless - try to do well on it junior year. Some colleges will give you scholarships and stuff if you get a great (near 1520) score.
 
-### Letters of Recommendation
+## Letters of Recommendation
 **Ask your teachers for letters of recommendation as early as you can**, ideally first week of school senior year. At the very least ask before October of senior year. They are not paid to write your letter. They are doing you a favor, make it easier for them. Give them anything that will help them help you. For example:
 - resume
 - transcript
