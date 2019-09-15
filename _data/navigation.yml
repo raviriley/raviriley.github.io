@@ -2,14 +2,11 @@ main:
   - title: "Resume"
     url: /resume/
     
-  - title: "Blog"
-    url: /blog/
-    
   - title: "Projects"
     url: /projects/
-    
-  - title: "Portfolio"
-    url: /portfolio/
+
+  - title: "Blog"
+    url: /blog/
 
 projects:
   - title: "Intoolovation"
