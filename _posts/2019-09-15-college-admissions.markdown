@@ -70,11 +70,11 @@ Everything you want to include on college apps must be done before November of y
 Remember that many schools have their own ways of calculating GPA, so Google their specific calculators to get a better idea of where you stand.
 
 ## Extracurriculars
-**Colleges want a well-rounded class, not a class of well-rounded individuals.** Don't take a bunch of random extracurriculars to pad your college application. 
+**Colleges want a well-rounded class, not a class of well-rounded individuals.** Don't take a bunch of random extracurriculars to pad your college application. Do things because you like to do them/are passionate about them, and/or they make you happy.
 
 Focus your activities on a few passions (1 to 2 ideally) and go really in depth on them, doing activities at a high level.
 
-Quit all sports after sophomore year (2 year PE requirement) unless you plan on doing that sport in college or you are really good at it (champion at some level, ideally state or national level). Spend the time on your passion-related extracurriculars instead.
+Quit all sports after sophomore year (2 year PE requirement) unless it makes you happy, or you plan on doing that sport in college or you are really good at it (champion at some level, ideally state or national level). If you are just doing a sport for college apps, spend the time on your passion-related extracurriculars instead.
 
 Do a few things and do them really well over doing many things and being okay at all of them. Do not spread yourself too thin.
 
