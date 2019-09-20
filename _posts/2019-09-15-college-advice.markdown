@@ -1,11 +1,9 @@
 ---
 layout: single
-title:  "Advice I Wish I Knew in 9th Grade"
+title:  "stuff I wish I knew before senior year and other advice"
 date:   2019-09-20 09:15:00 -0800
 excerpt: "What I wish I knew before senior year and other advice."
 ---
-
-# stuff I wish I knew before senior year and other advice
 
 Sophomore and junior year grades matter the most.
 
