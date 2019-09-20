@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "college advice I wish I knew before senior year and other advice"
+title:  "stuff I wish I knew before senior year and other advice"
 date:   2019-09-20 09:15:00 -0800
 excerpt: "What I wish I knew before senior year and other advice."
 ---
