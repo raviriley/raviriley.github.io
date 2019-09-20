@@ -3,6 +3,7 @@ layout: single
 title:  "My College Admissions"
 date:   2019-09-20 11:15:00 -0800
 excerpt: "My college admissions process - where I got in + my stats and essays."
+toc: true
 ---
 Note: I have no under-represented minority status. I am not a recruited athlete and I have won no national awards. My family doesn't have low income status and does not qualify for fee waivers.
 
