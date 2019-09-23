@@ -5,18 +5,18 @@ date:   2019-09-22 21:00:00 -0800
 toc: true
 ---
 **Preface:**
-I am writing this as a senior before I've finished any of my college applications. I looked back on some very specific things I would have done differently if I'd known then what I knew now, got stressed, and decided to write it all down. All of these statements are my opinions and I don't know shit. I'm 17 years old. I only wrote college app-specific advice here that would apply to someone like the person I was a few years ago, then rewrote it to be more general.
+I am writing this as a senior before I've finished any of my college applications. I looked back on some very specific things I would have done differently if I'd known then what I know now, got stressed, and decided to write it all down. All of these statements are my opinions and I don't know shit. I'm 17 years old. I only wrote college app-specific advice here that would apply to someone like the person I was a few years ago, then rewrote it to be more general.
 **Keep in mind that you are more than the set of stats and essays called a college application**.
 
 
 ## Extracurriculars
 **Colleges want a well-rounded class, not a class of well-rounded individuals.** Don't take a bunch of random extracurriculars to pad your college application. Do things because you like to do them/are passionate about them, and/or they make you happy.
 
-Focus your activities on a few passions (1 to 2 ideally) and go really in depth on them, doing activities at a high level.
+Focus your activities on a few passions (1 to 2 ideally) and go super in-depth on them, doing activities at a high level.
 
 Quit all sports after sophomore year (2 year PE requirement) unless you plan on doing that sport in college, it makes you happy, or you are really good at it (champion at some level, ideally state or national level). Essentially, if you are just doing a sport for college apps, spend the time on your passion-related extracurriculars instead.
 
-Do a few things and do them really well over doing many things and being okay at all of them. Do not spread yourself too thin.
+Do a few things and do them well over doing many things and being okay at all of them. Do not spread yourself too thin.
 
 Everything you want to include on college apps must be done before November of your senior year.
 
@@ -30,7 +30,7 @@ Don't disregard the PSAT as useless. It is easier than the real SAT but at least
 
 
 ## Letters of Recommendation
-**Ask your teachers for letters of recommendation as early as you can**, ideally first month of school senior year. At the very least ask before October of senior year. They are not paid to write your letter. They are doing you a favor, make it easier for them. Some teachers will request some of the items below, others won't. Either way, give them anything that will help them help you.
+**Ask your teachers for letters of recommendation as early as you can**, ideally the first month of school senior year. At the very least ask before October of senior year. They are not paid to write your letter. They are doing you a favor, make it easier for them. Some teachers will request some of the items below, others won't. Either way, give them anything that will help them help you.
 
 - resume
 - transcript
@@ -51,8 +51,7 @@ Most schools limit the number of letters you can submit. If they don't, that doe
 
 
 ## GPA
-Sophomore and junior year grades matter the most. Your GPA at the end of junior year is probably what you'll submit to most of the colleges you apply to.
+Sophomore and junior year grades matter the most. Your GPA at the end of junior year is probably what you'll submit to most of the colleges you apply to. Some schools, like UCs, have unique GPA calculation methods.
 
-College applications are due at the end of first semester senior year. UC apps are due at the end of November, and many schools have a deadline around January 1st. Some colleges don't even look at your first semester grades when calculating your GPA.
+College applications are due at the end of first-semester senior year. UC apps are due at the end of November, and many schools have a deadline around January 1st. Some colleges don't even look at your first semester grades when calculating your GPA.
 
-Remember that many schools have their own ways of calculating GPA, so Google their specific calculators to get a better idea of where you stand.
