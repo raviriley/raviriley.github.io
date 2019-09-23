@@ -4,7 +4,7 @@ title:  "Advice About Applying to College I Wish I Knew Sooner"
 date:   2019-09-22 21:00:00 -0800
 toc: true
 ---
-### Preface:
+**Preface:**
 I am writing this as a senior before I've finished any of my college applications. I looked back on some very specific things I would have done differently if I'd known then what I knew now, got stressed, and decided to write it all down. All of these statements are my opinions and I don't know shit. I'm 17 years old. I only wrote college app-specific advice here that would apply to someone like the person I was a few years ago, then rewrote it to be more general.
 **Keep in mind that you are more than the set of stats and essays called a college application**.
 
