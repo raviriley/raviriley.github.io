@@ -1,17 +1,13 @@
 ---
 layout: single
-title:  "stuff I wish I knew before senior year and other advice"
+title:  "Advice About Applying to College I Wish I Knew Sooner"
 date:   2019-09-20 09:15:00 -0800
-excerpt: "What I wish I knew before senior year and other advice."
 ---
+#### Preface:
+I am writing this as a senior before I've finished any of my college applications. I looked back on some very specific things I would have done differently if I'd known then what I knew now, got stressed, and decided to write it all down. All of these statements are my opinions and I don't know shit. I'm 17 years old. I only wrote college app-specific advice here that would apply to someone like the person I was a few years ago.
+**Keep in mind that you are more than the set of stats and essays called a college application**.
 
-Sophomore and junior year grades matter the most.
 
-College applications are due at the end of first semester senior year. UC apps are due at the end of November, and many schools have a deadline around January 1st. Some colleges don't even look at your first semester grades when calculating your GPA.
-
-Everything you want to include on college apps must be done before November of your senior year.
-
-Remember that many schools have their own ways of calculating GPA, so Google their specific calculators to get a better idea of where you stand.
 
 ## Extracurriculars
 **Colleges want a well-rounded class, not a class of well-rounded individuals.** Don't take a bunch of random extracurriculars to pad your college application. Do things because you like to do them/are passionate about them, and/or they make you happy.
@@ -49,3 +45,12 @@ Ask your teacher where they went to college. If you are applying to their alma m
 UCs don't take letters of recommendation.
 
 Most schools limit the number of letters you can submit. If they don't, that doesn't mean you should submit a ton of letters. No one wants to read all that.
+
+## Misc
+Sophomore and junior year grades matter the most.
+
+College applications are due at the end of first semester senior year. UC apps are due at the end of November, and many schools have a deadline around January 1st. Some colleges don't even look at your first semester grades when calculating your GPA.
+
+Everything you want to include on college apps must be done before November of your senior year.
+
+Remember that many schools have their own ways of calculating GPA, so Google their specific calculators to get a better idea of where you stand.
