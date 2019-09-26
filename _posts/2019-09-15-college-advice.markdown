@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Advice About Applying to College I Wish I Knew Sooner"
-date:   2019-09-22 21:00:00 -0800
+date:   2019-09-25 17:00:00 -0800
 toc: true
 ---
 **Preface:**
@@ -19,6 +19,14 @@ Quit all sports after sophomore year (2 year PE requirement) unless you plan on 
 Do a few things and do them well over doing many things and being okay at all of them. Do not spread yourself too thin.
 
 Everything you want to include on college apps must be done before November of your senior year.
+
+
+## Email
+**MAKE A SEPARATE EMAIL FOR YOUR COLLEGE BOARD ACCOUNT!**
+
+Before the first time you have to give your email address to the College Board, make a new email address dedicated to college-related stuff. For most people, the 10th grade PSAT is the first time the College Board asks for your email. This will save your inbox from the massive amount of emails you will receive. If you make a new email account before or near the start of 11th grade, you may still have a chance of saving your inbox.
+
+Don't use this specially dedicated email account for college *applications*, as your important emails from colleges could get lost in the huge amount of mail flooding that inbox. Optionally, make *another* email account specifically for college applications. This may seem extra, but I wish I had done this because my inbox has so many emails from colleges flooding it that I sometimes miss the important stuff.
 
 
 ## SAT
@@ -54,4 +62,3 @@ Most schools limit the number of letters you can submit. If they don't, that doe
 Sophomore and junior year grades matter the most. Your GPA at the end of junior year is probably what you'll submit to most of the colleges you apply to. Some schools, like UCs, have unique GPA calculation methods.
 
 College applications are due at the end of first-semester senior year. UC apps are due at the end of November, and many schools have a deadline around January 1st. Some colleges don't even look at your first semester grades when calculating your GPA.
-
