@@ -4,18 +4,20 @@ title:  "My College Admissions"
 date:   2019-09-20 11:15:00 -0800
 excerpt: "My college admissions process - where I got in + my stats and essays."
 toc: true
+toc_label: "Table of Contents"
 ---
 Note: I have no under-represented minority status. I am not a recruited athlete and I have won no national awards. My family doesn't have low income status and does not qualify for fee waivers.
 
 
-## My Stats
+## Stats
 
 | GPA | SAT  | SAT Math 2 | SAT Physics |
 |-----|------|------------|-------------|
 | 4.3 | 1490 |    TBD     |     TBD     |
 
 
-## My Applications (Total Cost: $0000)
+## Applications
+(Total Cost: $0000)
 
 <table width="100%">
 <tr><th>UCs</th><th>Cal States</th><th>Others</th></tr>
@@ -57,8 +59,10 @@ Note: I have no under-represented minority status. I am not a recruited athlete 
 </tr>
 </table>
 
-## UCs
+## Essays
 
-## California Private Schools
+### UCs
 
-## Out of state schools
+### California Private Schools
+
+### Out of state schools
