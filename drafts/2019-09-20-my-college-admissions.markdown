@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "My College Admissions"
-date:   2019-09-20 11:15:00 -0800
+date:   2019-09-28 11:15:00 -0800
 excerpt: "My college admissions process - where I got in + my stats and essays."
 toc: true
 toc_label: "Table of Contents"
