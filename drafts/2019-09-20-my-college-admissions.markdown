@@ -39,7 +39,6 @@ Note: I have no under-represented minority status. I am not a recruited athlete 
 | Applied      | Accepted |
 |--------------|----------|
 | Cal Poly SLO | Yes/No   |
-| CSUN         | Yes/No   |
 | CSULB        | Yes/No   |
 
 </td>
@@ -49,14 +48,16 @@ Note: I have no under-represented minority status. I am not a recruited athlete 
 | Applied  | Accepted |
 |----------|----------|
 | Stanford | Yes/No   |
-| MIT      | Yes/No   |
 | USC      | Yes/No   |
 | Caltech  | Yes/No   |
+| MIT      | Yes/No   |
 
 </td>
 
 </tr>
 </table>
+
+## UCs
 
 ## California Private Schools
 
