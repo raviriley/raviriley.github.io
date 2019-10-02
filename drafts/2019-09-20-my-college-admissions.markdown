@@ -19,50 +19,80 @@ Note: I have no under-represented minority status. I am not a recruited athlete 
 ## Applications
 (Total Cost: $0000)
 
+<!-- https://www.tablesgenerator.com/markdown_tables -->
 <table width="100%">
-<tr><th>UCs</th><th>Cal States</th><th>Others</th></tr>
-<tr width="100%">
-
-<td markdown="1" style="vertical-align:top">
-
-| Applied          | Accepted |
-|------------------|----------|
-| UC Berkeley      | Yes/No   |
-| UCLA             | Yes/No   |
-| UC San Diego     | Yes/No   |
-| UC Santa Barbara | Yes/No   |
-| UC Irvine        | Yes/No   |
-| UC Santa Cruz    | Yes/No   |
-
-</td>
-
-<td markdown="1" style="vertical-align:top">
-
-| Applied      | Accepted |
-|--------------|----------|
-| Cal Poly SLO | Yes/No   |
-| CSULB        | Yes/No   |
-
-</td>
-
-<td markdown="1" style="vertical-align:top">
-
-| Applied  | Accepted |
-|----------|----------|
-| Stanford | Yes/No   |
-| USC      | Yes/No   |
-| Caltech  | Yes/No   |
-| MIT      | Yes/No   |
-
-</td>
-
+<tr>
+<th>California</th>
+<th>Out-of-state</th>
 </tr>
+
+<tr width="100%">
+<td markdown="1" style="vertical-align:top">
+
+**UCs**
+
+| Applied       | Accepted |
+|---------------|:--------:|
+| Berkeley      | Yes/No   |
+| LA            | Yes/No   |
+| San Diego     | Yes/No   |
+| Santa Barbara | Yes/No   |
+| Irvine        | Yes/No   |
+| Santa Cruz    | Yes/No   |
+
+**Cal States**
+
+| Applied       | Accepted |
+|---------------|:--------:|
+| Cal Poly SLO  | Yes/No   |
+| Long Beach    | Yes/No   |
+
+**Private Schools**
+
+| Applied       | Accepted |
+|---------------|:--------:|
+| Caltech       |  Yes/No  |
+| USC           |  Yes/No  |
+| Stanford      |  Yes/No  |
+
+</td>
+
+<td markdown="1" style="vertical-align:top" height="100%">
+
+**Private**
+
+|     Applied     | Accepted |
+|-----------------|:--------:|
+| MiT             |  Yes/No  |
+| Carnegie Mellon |  Yes/No  |
+| Northwestern    |  Yes/No  |
+| Brown           |  Yes/No  |
+| Columbia        |  Yes/No  |
+
+**Public**
+
+| Applied        | Accepted |
+|----------------|:--------:|
+| ASU Barrett    |  Yes/No  |
+
+</td>
+</tr>
+
+</td>
+
 </table>
 
 ## Essays
 
 ### UCs
 
-### California Private Schools
+### Common App
 
 ### Out of state schools
+
+## Tips
+The Cal State application requires dates for every AP exam (MM/DD/YYYY), which can be found for current and past years [here](https://www.totalregistration.net/AP-Exam-Registration-Service/AP-Exam-Schedule.php).
+
+USC has a Dec 1 application deadline if you want to be eligible for scholarships.
+
+ASU has an honors college (Barrett) that is ranked well, and you get automatic scholarships of up to $8K just for having a high GPA and SAT score. They also give a lot of credit for APs, allowing you to graduate in 3 years or less. On top of that, if you have enough APs to skip a year, they have a 3+1 program, meaning in 4 years you get your Bachelors *and* Masters degrees.
