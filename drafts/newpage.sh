@@ -10,3 +10,4 @@ cp pageheader.txt $file
 echo created $file
 cat "$file" | sed -e "s/temptitle/$title/" -e "s/temp-permalink/$permalink/" > "$file"
 sleep 0.6s
+# Created by Ravi Riley (github.com/raviriley)

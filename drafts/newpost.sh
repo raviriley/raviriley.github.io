@@ -10,3 +10,4 @@ printf -v datetime '%(%Y-%m-%d %H:%M:%S)T' -1 #gets date and formats it to YYY-M
 #replace temptitle with $title, temptime with $datetime
 cat "$file" | sed -e "s/temptitle/$title/" -e "s/temptime/$datetime/" > "$file"
 sleep 0.6s
+# Created by Ravi Riley (github.com/raviriley)
