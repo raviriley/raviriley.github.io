@@ -142,16 +142,23 @@ animated-gallery:
     - label: "**Intoolovation.com**<br/><br/>Shopify-based eCommerce website for the sale of Intoolovation, Inc.'s products"
       image: /assets/images/intoolovation.PNG
       url: "https://intoolovation.com"
-    - label: "**Layout Gallery**"
-      image: /assets/images/layout-gallery.PNG
-      url: "/layout-gallery/"
     - label: "**CV Enterprises**<br/>Official site for a software company connecting CVHS programmers to local businesses"
       image: /assets/images/CVENTlogoResized.png
       url: "https://cventerprises.org"
+    - label: "**Crescenta Valley Trivia Rally**"
+      image: /assets/images/cvtriviarally.png
+      url: "https://play.google.com/store/apps/details?id=com.RaviRiley.testBuild"
     - label: "**Markdown Showcase**<br/>sample page to showcase various Markdown features’ syntax and how they look when implemented on this theme"
       image: /assets/images/markdown-showcase.PNG
       url: "/archive-sample/"
     - label: "**Chrome New Tab Countdown Extension**"
       image: https://placehold.it/1261x858
       url: "#"
+    - label: "**Layout Gallery**"
+      image: /assets/images/layout-gallery.PNG
+      url: "/layout-gallery/"
+    # - label: "**Agency Jekyll Theme**"
+      # image: https://placehold.it/1261x858
+      # url: "https://github.com/raviriley/agency-jekyll-theme"
+
 #end
