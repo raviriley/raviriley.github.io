@@ -5,16 +5,28 @@ classes: wide
 sidebar: 
   nav: "projects"
 author_profile: true
+#Links for animated responsive gallery
+project-gallery:
+    - text: "**Intoolovation.com**<br/><br/>Shopify-based eCommerce website for the sale of Intoolovation, Inc.'s products"
+      image: /assets/images/intoolovation.PNG
+      url: "https://intoolovation.com"
+    - text: "**CV Enterprises**<br/>Official site for a software company connecting CVHS programmers to local businesses"
+      image: /assets/images/CVENTlogoResized.png
+      url: "https://cventerprises.org"
+    - text: "**Crescenta Valley Trivia Rally**"
+      image: /assets/images/cvtriviarally.png
+      url: "https://play.google.com/store/apps/details?id=com.RaviRiley.testBuild"
+    - text: "**Markdown Showcase**<br/>sample page to showcase various Markdown features’ syntax and how they look when implemented on this theme"
+      image: /assets/images/markdown-showcase.PNG
+      url: "/archive-sample/"
+    - text: "**Chrome New Tab Countdown Extension**"
+      image: https://placehold.it/1261x858
+      url: "#"
+    - text: "**Layout Gallery**"
+      image: /assets/images/layout-gallery.PNG
+      url: "/layout-gallery/"
+    # - text: "**Agency Jekyll Theme**"
+      # image: https://placehold.it/1261x858
+      # url: "https://github.com/raviriley/agency-jekyll-theme"
 ---
-<!-- adapted from http://www.menucool.com/ui/responsive-image-grid-with-hover-effect -->
-<ul id="rig">
-	{% if site.animated-gallery.links %}
-      {% for link in site.animated-gallery.links %}
-        {% if link.label and link.url %}
-          <li><a class="rig-cell" href="{{ link.url }}"><img class="rig-img" src="{{ link.image }}"><span class="rig-overlay"></span><span class="rig-text">{{ link.label | markdownify }}</span></a></li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-</ul>
-
-<!-- turn this into something in _includes to later add to the theme - learn from gallery and feature row, mainly gallery -->
+{% include project-gallery %}
