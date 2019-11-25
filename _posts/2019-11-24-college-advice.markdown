@@ -18,7 +18,7 @@ Quit all sports after sophomore year (2 year PE requirement) unless you plan on 
 
 Do a few things and do them well over doing many things and being okay at all of them. Do not spread yourself too thin.
 
-Everything you want to include on college apps must be done before November of your senior year.
+Everything you want to include on college apps must be done before December of your senior year.
 
 
 ## Email
