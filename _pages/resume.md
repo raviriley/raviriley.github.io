@@ -9,4 +9,4 @@ classes: wide
     </embed>
 </object>
 
-<a href="/assets/resume/resume.pdf">Download PDF</a>
+[Download PDF](/assets/resume/resume.pdf) | [View on Overleaf](https://www.overleaf.com/read/yjqwjrxvrtxz)
