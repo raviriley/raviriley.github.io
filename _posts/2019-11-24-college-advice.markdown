@@ -32,7 +32,7 @@ Don't use this specially dedicated email account for college *applications*, as 
 ## SAT
 Take your first SAT in your sophomore year of high school. This gives you 2 years to work your way up to the score you want. Also, getting the SAT out of the way early on is just one less thing you have to worry about junior/senior year, you will be busy enough as it is.
 
-If any of the schools you are even *considering* applying to recommend SAT Subject Tests, take them as early as you can. Again, one less thing you'll have to worry about.
+If any of the schools you are even *considering* applying to recommend SAT Subject Tests, take them as early as you can. Again, one less thing you'll have to worry about. Ideally, take the Math 2 SAT right after finishing Precalculus, as it only goes up to trig and everything will be fresh in your mind.
 
 Don't disregard the PSAT as useless. It is easier than the real SAT but at least it will familiarize you with the format of SAT questions. Don't sweat it if you get a terrible PSAT score, I know people who had bad PSAT scores and got over 1500 on the SAT.
 
@@ -43,13 +43,12 @@ Don't disregard the PSAT as useless. It is easier than the real SAT but at least
 - resume
 - transcript
 - extracurriculars
-- special achievements (especially subject related, if you won a math competition you should tell your math teacher so they can include it in your letter of recommendation)
+- special achievements (especially subject related, if you won a math competition you should tell your math teacher)
 
 Optionally
 - what major you have chosen
 - what schools you are applying to
 - the motto of your dream school or a specific phrase you want them to include
-- etc
 
 You don't need to have all of these of course, but the more the better. Especially at a big school like CV, if your teachers can cite specific things about you in their letters, you will stand out compared to your peers.
 
@@ -59,6 +58,6 @@ Most schools limit the number of letters you can submit. If they don't, that doe
 
 
 ## GPA
-Sophomore and junior year grades matter the most. Your GPA at the end of junior year is probably what you'll submit to most of the colleges you apply to. Some schools, like UCs, have unique GPA calculation methods.
+Sophomore and junior year grades matter the most. Your GPA at the end of junior year is probably what you'll submit to most of the colleges you apply to. Some schools, like UCs and Cal States, have unique GPA calculation methods.
 
 College applications are due at the end of first-semester senior year. UC apps are due at the end of November, and many schools have a deadline around January 1st. Some colleges don't even look at your first semester grades when calculating your GPA.
