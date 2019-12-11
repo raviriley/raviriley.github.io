@@ -19,14 +19,12 @@ project-gallery:
     - text: "**Markdown Showcase**<br/>sample page to showcase various Markdown features’ syntax and how they look when implemented on this theme"
       image: /assets/images/markdown-showcase.PNG
       url: "/archive-sample/"
-    - text: "**Chrome New Tab Countdown Extension**"
+    - text: "**Agency Jekyll Theme**"
       image: https://placehold.it/1261x858
-      url: "#"
+      url: "https://github.com/raviriley/agency-jekyll-theme"
     - text: "**Layout Gallery**"
       image: /assets/images/layout-gallery.PNG
       url: "/layout-gallery/"
-    # - text: "**Agency Jekyll Theme**"
-      # image: https://placehold.it/1261x858
-      # url: "https://github.com/raviriley/agency-jekyll-theme"
+
 ---
 {% include project-gallery %}
