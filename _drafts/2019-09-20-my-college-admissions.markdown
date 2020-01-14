@@ -13,7 +13,7 @@ Note: I have no under-represented minority status. I am not a recruited athlete 
 
 | GPA | SAT  | SAT Math 2 | SAT Physics |
 |-----|------|------------|-------------|
-| 4.3 | 1490 |    TBD     |     TBD     |
+| 4.3 | 1490 |    780     |     TBD     |
 
 
 ## Applications
