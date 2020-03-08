@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "My College Admissions"
-date:   2019-09-28 11:15:00 -0800
-excerpt: "My college admissions process - where I got in + my stats and essays."
+date:   2020-03-08 11:15:00 -0800
+excerpt: "My college admissions process - where I got in + my stats"
 toc: true
 toc_label: "Table of Contents"
 ---
@@ -11,23 +11,15 @@ Note: I have no under-represented minority status. I am not a recruited athlete 
 
 ## Stats
 
-| GPA | SAT  | SAT Math 2 | SAT Physics |
-|-----|------|------------|-------------|
-| 4.3 | 1490 |    780     |     TBD     |
+| GPA | SAT  |
+|-----|------|
+| 4.3 | 1490 |
 
 
 ## Applications
-(Total Cost: $0000)
+(Total Cost: $935)
 
 <!-- https://www.tablesgenerator.com/markdown_tables -->
-<table width="100%">
-<tr>
-<th>California</th>
-<th>Out-of-state</th>
-</tr>
-
-<tr width="100%">
-<td markdown="1" style="vertical-align:top">
 
 **UCs**
 
@@ -38,61 +30,35 @@ Note: I have no under-represented minority status. I am not a recruited athlete 
 | San Diego     | Yes/No   |
 | Santa Barbara | Yes/No   |
 | Irvine        | Yes/No   |
-| Santa Cruz    | Yes/No   |
+| Santa Cruz    | Yes      |
+| Riverside     | Yes      |
 
 **Cal States**
 
-| Applied       | Accepted |
-|---------------|:--------:|
-| Cal Poly SLO  | Yes/No   |
-| Long Beach    | Yes/No   |
+| Applied        | Accepted |
+|----------------|:--------:|
+| Cal Poly SLO   | Yes/No   |
+| Cal Poly Pomona| Yes      |
 
 **Private Schools**
 
 | Applied       | Accepted |
 |---------------|:--------:|
-| Caltech       |  Yes/No  |
+| MIT           |  Yes/No  |
 | USC           |  Yes/No  |
-| Stanford      |  Yes/No  |
+|Carnegie Mellon|  Yes/No  |
 
-</td>
-
-<td markdown="1" style="vertical-align:top" height="100%">
-
-**Private**
-
-|     Applied     | Accepted |
-|-----------------|:--------:|
-| MiT             |  Yes/No  |
-| Carnegie Mellon |  Yes/No  |
-| Northwestern    |  Yes/No  |
-| Brown           |  Yes/No  |
-| Columbia        |  Yes/No  |
-
-**Public**
+**Public Out-of-state**
 
 | Applied        | Accepted |
 |----------------|:--------:|
-| ASU Barrett    |  Yes/No  |
+| ASU Barrett    |  Yes     |
 
-</td>
-</tr>
-
-</td>
-
-</table>
-
-## Essays
-
-### UCs
-
-### Common App
-
-### Out of state schools
 
 ## Tips
 The Cal State application requires dates for every AP exam (MM/DD/YYYY), which can be found for current and past years [here](https://www.totalregistration.net/AP-Exam-Registration-Service/AP-Exam-Schedule.php).
 
 USC has a Dec 1 application deadline if you want to be eligible for scholarships.
 
-ASU has an honors college (Barrett) that is ranked well, and you get automatic scholarships of up to $8K just for having a high GPA and SAT score. They also give a lot of credit for APs, allowing you to graduate in 3 years or less. On top of that, if you have enough APs to skip a year, they have a 3+1 program, meaning in 4 years you get your Bachelors *and* Masters degrees.
+ASU has an honors college (Barrett) that is ranked decently, and you get automatic scholarships just for having a high GPA and SAT. They also give a lot of credit for APs, allowing you to graduate in 3 years or less. On top of that, if you have enough APs to skip a year, they have a 3+1 program, meaning in 4 years you get your Bachelors *and* Masters degrees.
+
