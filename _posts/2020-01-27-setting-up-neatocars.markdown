@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Setting Up Your Local Neato Cars GitHub Repository"
-date:   2020-01-28 10:55:09 -0800
+date:   2020-03-08 10:55:09 -0800
 excerpt: "Setting up the cars repo for Dr. Neat's class"
 toc: true
 ---
@@ -25,6 +25,9 @@ enter `git clone https://github.com/raviriley/neatocars.git` in your Git Bash wi
 ![5](/assets/images/neatocars_tutorial/git_clone.PNG)
 
 ### Getting the most recent version
+Run the update.sh file
+
+or
 
 Do step 2, then enter these commands in Git Bash every time you want to get the most recent version of neatocars:
 
