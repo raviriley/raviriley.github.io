@@ -4,10 +4,10 @@ excerpt: A variety of common markup showing how this theme styles them.
 layout: archive
 permalink: /archive-sample/
 ---
-#### A variety of common markup showing how this theme styles them. 
+#### A variety of common markup showing how this theme styles them.
 
 Based on [Minimal Mistakes sample archive page](https://mmistakes.github.io/minimal-mistakes/archive-layout-with-content/)
-[*(raw source)*](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_pages/archive-layout-with-content.md) 
+[*(raw source)*](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_pages/archive-layout-with-content.md)
 {: .small}
 
 Exploring this page will teach you some Markdown syntax, both general syntax and syntax specific to this theme. For example, the Markdown for the text above is as follows:
@@ -15,7 +15,7 @@ Exploring this page will teach you some Markdown syntax, both general syntax and
 [//]: # ( markdown syntax for above: )
 
 Based on [Minimal Mistakes sample archive page](https://mmistakes.github.io/minimal-mistakes/archive-layout-with-content/)
-[*(raw source)*](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_pages/archive-layout-with-content.md) 
+[*(raw source)*](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_pages/archive-layout-with-content.md)
 {: .small}
 
 [//]: # ( {: .small} is specific to this theme )
@@ -23,10 +23,13 @@ Based on [Minimal Mistakes sample archive page](https://mmistakes.github.io/mini
 
 ### Comments in Markdown
 ```markdown
-[//]: # (This syntax works like a comment, and won't appear in any output. Writing it this way ensures it won't show up when converting Markdown to other formats)
+[//]: # (This syntax works like a comment, and won't appear in any output.)
+[//]: # (Writing it this way ensures it won't show up when converting Markdown to other formats)
+
+<!-- HTML comments also work in Markdown -->
 ```
 
-## Images 
+## Images
 ![Sample Image](/assets/images/unsplash-gallery-image-3.jpg)
 [*Image Source*](https://unsplash.com/@petefogden?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge)
 {: .small}
@@ -87,9 +90,9 @@ Multi line blockquote with a cite reference:
 {: .small}
 
 ```markdown
-> text
+> People think focus means...
 <cite>Steve Jobs</cite> --- Apple Worldwide Developers' Conference, 1997
-{: .small} 
+{: .small}
 ```
 
 ## Tables
@@ -154,8 +157,8 @@ Definition List Title
 
 ## Unordered Lists (Nested)
 
-  * List item one 
-      * List item one 
+  * List item one
+      * List item one
           * List item one
           * List item two
           * List item three
@@ -166,10 +169,10 @@ Definition List Title
   * List item two
   * List item three
   * List item four
-  
+
 ```markdown
-  * List item one 
-      * List item one 
+  * List item one
+      * List item one
           * List item one
           * List item two
           * List item three
@@ -180,14 +183,14 @@ Definition List Title
   * List item two
   * List item three
   * List item four
-  
+
 [//]: # ( ordered lists are the same but with numbers )
 ```
 
 ## Ordered List (Nested)
 
-  1. List item one 
-      1. List item one 
+  1. List item one
+      1. List item one
           1. List item one
           2. List item two
           3. List item three
