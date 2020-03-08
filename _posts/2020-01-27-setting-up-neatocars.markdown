@@ -5,7 +5,7 @@ date:   2020-03-08 10:55:09 -0800
 excerpt: "Setting up the cars repo for Dr. Neat's class"
 toc: true
 ---
-This is a tutorial for Dr. Neato's class on how to set up your first GitHub repo using the command line. Git Bash should be installed on all the school computers so that is what we will use. If you don't have Git installed, click [here](https://git-scm.com/downloads). 
+This is a tutorial for Dr. Neato's class on how to set up your GitHub repo using the command line. Git Bash should be installed on all the school computers so that is what we will use. If you don't have Git installed, click [here](https://git-scm.com/downloads). 
 
 ### Step 1 - Make your folder
 
