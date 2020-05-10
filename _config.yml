@@ -81,9 +81,9 @@ author:
   #location:
   email   : "ravi@intoolovation.com"
   links:
-    # - label: "Email"
-      # icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:raviriley@gmail.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ravi@intoolovation.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/raviriley/"
