@@ -1,10 +1,11 @@
 ---
+layout: splash
 title: Projects
 permalink: /projects/
 classes: wide
-sidebar: 
-  nav: "projects"
-author_profile: true
+# sidebar: 
+  # nav: "projects"
+author_profile: false
 #Links for animated responsive gallery
 project-gallery:
     - text: "**Intoolovation.com**<br/><br/>Shopify-based eCommerce website for the sale of Intoolovation, Inc.'s products"
