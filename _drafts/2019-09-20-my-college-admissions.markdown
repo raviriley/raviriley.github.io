@@ -24,29 +24,29 @@ Note: I have no under-represented minority status. I am not a recruited athlete 
 **UCs**
 
 | Applied       | Accepted |
-|---------------|:--------:|
-| Berkeley      | Yes/No   |
-| LA            | Yes/No   |
-| San Diego     | Yes/No   |
-| Santa Barbara | Yes/No   |
-| Irvine        | Yes/No   |
-| Santa Cruz    | Yes      |
-| Riverside     | Yes      |
+|---------------|:---:|
+| Berkeley*     | Yes |
+| LA            | No  |
+| San Diego     | Yes |
+| Santa Barbara | No  |
+| Irvine        | No  |
+| Santa Cruz    | Yes |
+| Riverside     | Yes |
 
 **Cal States**
 
 | Applied        | Accepted |
 |----------------|:--------:|
-| Cal Poly SLO   | Yes/No   |
+| Cal Poly SLO   | WL       |
 | Cal Poly Pomona| Yes      |
 
 **Private Schools**
 
 | Applied       | Accepted |
 |---------------|:--------:|
-| MIT           |  Yes/No  |
-| USC           |  Yes/No  |
-|Carnegie Mellon|  Yes/No  |
+| MIT           |  No      |
+| USC           |  Yes     |
+|Carnegie Mellon|  No      |
 
 **Public Out-of-state**
 
@@ -60,5 +60,4 @@ The Cal State application requires dates for every AP exam (MM/DD/YYYY), which c
 
 USC has a Dec 1 application deadline if you want to be eligible for scholarships.
 
-ASU has an honors college (Barrett) that is ranked decently, and you get automatic scholarships just for having a high GPA and SAT. They also give a lot of credit for APs, allowing you to graduate in 3 years or less. On top of that, if you have enough APs to skip a year, they have a 3+1 program, meaning in 4 years you get your Bachelors *and* Masters degrees.
-
+ASU has an honors college (Barrett) and you get automatic scholarships just for having a high GPA and SAT. They also give a lot of credit for APs, allowing you to graduate in 3 years or less. On top of that, if you have enough APs to skip a year, they have a 3+1 program, meaning in 4 years you get your Bachelors *and* Masters degrees.
