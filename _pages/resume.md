@@ -11,8 +11,7 @@ classes: wide
 </object>
 -->
 
+![Resume page 1](/assets/resume/master_resume-1.png)
+![Resume page 2](/assets/resume/master_resume-2.png)
 
-![Resume page 1](/assets/resume/mega_resume-1.png)
-![Resume page 2](/assets/resume/mega_resume-2.png)
-
-<!-- [Download PDF](/assets/resume/resume.pdf) | [View on Overleaf](https://www.overleaf.com/read/yjqwjrxvrtxz) -->
+[Download PDF](/assets/resume/Ravi Riley Resume.pdf) <!-- | [View on Overleaf](https://www.overleaf.com/read/yjqwjrxvrtxz) -->
