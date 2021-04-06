@@ -5,7 +5,6 @@ date:   2019-05-04 05:04:00 -0800
 excerpt: "Tutorial for setting up Ruby on Windows with Jekyll or Rails"
 categories: 
   - tutorial
-  - pinned
 
 toc: true
 ---
